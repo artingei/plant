@@ -1,0 +1,19 @@
+{
+  "name": "plant",
+  "version": "1.0.0",
+  "description": "plantityourself dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "plantityourself"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-material": "^1.0.0-beta-10.2"
+  }
+}
